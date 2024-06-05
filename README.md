@@ -4,9 +4,9 @@ This project implements a user-friendly movie library web application with the f
 
 **Features:**
 
-User Authentication: Secure sign-in and sign-up functionalities to manage user accounts.
-Movie Search: Leverage the OMDb API to provide a comprehensive search bar for exploring movies by title.
-Movie Details: Display detailed information about movies obtained from the OMDb API, including title, plot, cast, ratings, and more.
+User Authentication:  Secure sign-in and sign-up functionalities to manage user accounts.
+Movie Search:  Leverage the OMDb API to provide a comprehensive search bar for exploring movies by title.
+Movie Details:  Display detailed information about movies obtained from the OMDb API, including title, plot, cast, ratings, and more.
 Movie Lists: Create personalized lists of favorite movies, similar to YouTube playlists.
 List Visibility: Control list privacy by choosing between public (accessible via link) and private (visible only to the creator).
 Modern Frontend: Employ HTML, CSS, and JavaScript for a visually appealing and responsive user interface.
